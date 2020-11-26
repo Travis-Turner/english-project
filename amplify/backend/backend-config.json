@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "englishproject24dba188": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
